@@ -29,7 +29,7 @@ Input cuisine & zip code, Output restaurant recommendations and relevant article
 ### Instructions
 1. Download RestaurantSearchEngine.ipynb and templates (2 HTML files) to your computer. Unzip the folder and place the templates file in the same directory as the IPYNB file
 2. Connect to Mongo DB, replace local host number with your own.
-   ![Mongo_DB](screenshots/MongoDB.png)
+
 3. Run the IPYNB file and open http://localhost:5003 in your browser to view the app
    ![Flask_Input](screenshots/flask_input.png)
    ![Flask_Output](screenshots/flask_output.png)
