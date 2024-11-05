@@ -25,3 +25,6 @@ Input cuisine & zip code, Output restaurant recommendations and relevant article
 - Offering a straightforward and robust environment for developing web applications
 - Managing specific user inputs and dynamically displaying the corresponding data
 - Lightweight and efficient architecture
+
+
+![Flask_Input](screenshots/flask_input.png)
