@@ -20,8 +20,7 @@ A web application that allows users to search for nearby restaurants in NYC by e
 - Enhancing the system’s capability to swiftly retrieve data and scale in response to the expanding dataset
 
 3. Using Flask to construct an interactive, user-centric web interface：
-Input: cuisine & zip code
-Output: restaurant recommendations and relevant articles
+Input cuisine & zip code, Output restaurant recommendations and relevant articles
 
 - Offering a straightforward and robust environment for developing web applications
 - Managing specific user inputs and dynamically displaying the corresponding data
