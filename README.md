@@ -1,4 +1,4 @@
-# NYC_Restaurant_Search_Engine
+# NYC Restaurant Search Engine
 A web application that allows users to search for nearby restaurants in NYC by entering a zip code and selecting a cuisine type. The app provides a list of restaurants and related articles.
 
 ### Project Focus
